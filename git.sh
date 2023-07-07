@@ -15,7 +15,7 @@ git init
 git add .
 git commit -m "ChatDjango"
 git remote add origin git@github.com:BayanP/ChatDjango.git
-git push origin master
+git push -u origin master
 # rm -rf .git
 
 # # обновить код у себя в репозиторий
